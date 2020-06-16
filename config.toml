@@ -1,0 +1,17 @@
+baseURL = "https://lefever.dev/"
+title = "A Website Name"
+paginate = 10
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "HugoTeX"
+
+[author]
+  name = "Jason Lefever"
+  abstract = "I am a developer and PhD student. My primary interest is in software evolution but I like to dabble all over."
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

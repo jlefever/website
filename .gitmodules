@@ -1,0 +1,7 @@
+[submodule "themes/hugotex"]
+	path = themes/hugotex
+	url = https://github.com/7ma7X/HugoTeX
+[submodule "public"]
+	path = public
+	url = https://github.com/jlefever/jlefever.github.io.git
+	branch = master
